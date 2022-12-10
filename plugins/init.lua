@@ -171,6 +171,7 @@ return {
         config = require("user.user_plugins.hlargs"),
     },
     ["andweeb/presence.nvim"] = {
+        disable = true,
         config = require("user.user_plugins.presence"),
     },
 }
