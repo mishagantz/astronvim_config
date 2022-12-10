@@ -8,8 +8,6 @@ return {
         "pylint",
         "reorder-python-imports",
         "yapf",
-        -- Rust
-        "rustfmt",
         -- Git
         "gitlint",
         -- Lua
